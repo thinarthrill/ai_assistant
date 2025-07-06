@@ -87,7 +87,7 @@ uvicorn api_llm:llm --reload
 
 ## 🔗 Live Assistants
 
-* 🌐 PMI Kazakhstan Assistant: [https://pmi.qaz.org](https://pmi.qaz.org)
+* 🌐 PMI Kazakhstan Assistant: [https://pmi.org.kz](https://pmi.org.kz)
 * 🌐 ProjectSolution Assistant: [https://projectsolution.kz](https://projectsolution.kz)
 
 ---

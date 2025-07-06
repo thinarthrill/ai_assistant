@@ -84,12 +84,14 @@ uvicorn api_llm:llm --reload
 * Adjust LangChain prompt templates for tone or use case
 
 ---
-🔗 Live Assistants
 
-🌐 PMI Kazakhstan Assistant: https://pmi.qaz.org
+## 🔗 Live Assistants
 
-🌐 ProjectSolution Assistant: https://projectsolution.kz
+* 🌐 PMI Kazakhstan Assistant: [https://pmi.qaz.org](https://pmi.qaz.org)
+* 🌐 ProjectSolution Assistant: [https://projectsolution.kz](https://projectsolution.kz)
+
 ---
+
 ## 👤 Author
 
 Developed by **Igor Volnukhin** — combining AI, APIs, and knowledge retrieval for practical assistant use cases.
